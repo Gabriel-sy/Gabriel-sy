@@ -32,4 +32,6 @@ Desenvolvedor com foco em tecnologias como C#, Java, JavaScript, ASP.NET Core, A
 ## Projetos
 
 ### [Movie-Meter](https://github.com/Gabriel-sy/Movie-Meter)
+### [SubtitlesDownloader](https://github.com/Gabriel-sy/SubtitlesDownloader)
 ### [FileUploadingApp](https://github.com/Gabriel-sy/FileUploadingApp)
+
