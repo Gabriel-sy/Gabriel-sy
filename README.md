@@ -25,7 +25,7 @@ Desenvolvedor com foco em tecnologias como C#, Java, JavaScript, ASP.NET Core, A
 
 ## Formação Acadêmica
 - **Sistemas Para Internet** - Instituto Federal de Brasília (IFB)  
-  Em andamento
+  2 Semestre
 
 ---
 
