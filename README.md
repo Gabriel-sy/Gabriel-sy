@@ -2,11 +2,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielsy/)
 
-## Sobre Mim
-Desenvolvedor com foco em tecnologias como C#, Java, JavaScript, Spring Boot, Angular e SQL. Atualmente estou buscando uma oportunidade de estágio.
-
----
-
 ## Dê uma olhada nos meus principais projetos
 
 ### [OmniSubs](https://github.com/Gabriel-sy/OmniSubs)
